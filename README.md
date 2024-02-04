@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @abdulwahab5547
+- 👀 I’m interested in tech
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on full stack web development projects
+- 📫 To reach me, email me at abdulwahab5547@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Asking and countering questions with ChatGPT is my favorite way of learning.
