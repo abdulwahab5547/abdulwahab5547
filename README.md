@@ -4,4 +4,3 @@
 - 💞️ I’m looking to collaborate on full stack web development projects
 - 📫 To reach me, email me at abdulwahab5547@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Asking and countering questions with ChatGPT is my favorite way of learning
