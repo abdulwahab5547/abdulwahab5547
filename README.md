@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Abdul Wahab
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning backend development
+- 💻 See my portfolio at: https://abdulwahab5547.github.io/my-portfolio/
 - 💞️ I’m looking to collaborate on full stack web development projects
 - 📫 To reach me, email me at abdulwahab5547@gmail.com
 - 😄 Pronouns: He/Him
