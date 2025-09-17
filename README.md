@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdul Wahab
-- 👀 A tech lover and badminton addict
-- 🌱 Currently mastering MERN stack (MongoDB, Express, React, Node)
+- 👀 A tech lover and badminton enthusiast
+- 🌱 I specialize in MERN stack (MongoDB, Express, React, Node)
 - 💻 See my portfolio at: https://abdulwahabasif.com/
 - 💞️ I can help you with full stack dev projects
 - 📫 To reach me, email me at abdulwahab5547@gmail.com
