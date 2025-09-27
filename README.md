@@ -5,7 +5,7 @@ I build websites and web apps that help businesses, entrepreneurs, and creators 
 🌱 **Specialization:** MERN Stack (MongoDB, Express, React, Node)  
 💻 **Portfolio:** [abdulwahabasif.com](https://abdulwahabasif.com/)  
 📫 **Email:** abdulwahab5547@gmail.com  
-⚡ **Fun fact:** Tech lover and badminton enthusiast  
+⚡ **Fun fact:** I'm a tech lover and badminton enthusiast  
 
 ---
 
