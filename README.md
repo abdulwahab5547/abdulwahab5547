@@ -9,8 +9,8 @@ I build websites and web apps that help businesses, entrepreneurs, and creators 
 
 ---
 
-### What I Do
-- **Websites:** Portfolio sites, landing pages, company sites (WordPress, Webflow, custom code)  
+### What I Build
+- **Websites:** Portfolio sites, landing pages, company sites (WordPress or custom code)  
 - **Web Apps:** SaaS tools, MVPs, e-commerce platforms (MERN Stack)  
 
 Delivered **30+ projects** across multiple domains.  
