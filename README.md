@@ -1,16 +1,74 @@
 # 👋 Hi, I’m Abdul Wahab
 
-I build websites and web apps that help businesses, entrepreneurs, and creators grow online.  
+## AI Product Engineer | Full-Stack Developer
 
-🌱 **Specialization:** MERN Stack (MongoDB, Express, React, Node)  
-💻 **Portfolio:** [abdulwahabasif.com](https://abdulwahabasif.com/)  
-📫 **Email:** abdulwahab5547@gmail.com  
-⚡ **Fun fact:** I'm a tech lover and badminton enthusiast  
+I turn AI-built apps into production-ready products.
+
+Most AI-generated apps look complete but fail under real-world usage - messy architecture, unreliable backend logic, scalability issues, and poor maintainability.
+
+I focus on the final 20% that makes products actually launch-ready.
 
 ---
 
-### What I Build
-- **Websites:** Portfolio sites, landing pages, company sites (WordPress or custom code)  
-- **Web Apps:** SaaS tools, MVPs, e-commerce platforms (MERN Stack)  
+## 🚀 What I Do
 
-Delivered **30+ projects** across multiple domains.  
+- Fix and optimize AI-generated applications
+- Build production-ready MVPs and SaaS products
+- Develop scalable full-stack systems using React, Node.js, and modern APIs
+- Create AI-powered workflows, automations, dashboards, and internal tools
+- Improve backend reliability, performance, and system structure
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- React
+- Next.js
+- JavaScript
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+
+### Database & Systems
+- MongoDB
+- Firebase
+- SQL
+
+### Other
+- AI Integrations
+- Authentication Systems
+- Cloudinary
+- Git & GitHub
+- Deployment & Production Optimization
+
+---
+
+## 📈 Experience
+
+- Built 30+ systems including SaaS platforms, dashboards, business tools, and web applications
+- Full-stack experience across frontend, backend, APIs, databases, and deployment
+- Strong focus on turning incomplete products into stable, launch-ready systems
+
+---
+
+## 🌐 Portfolio
+
+👉 abdulwahabasif.com
+
+## 📫 Contact
+
+- Email: abdulwahab5547@gmail.com
+- LinkedIn: www.linkedin.com/in/abdul-wahab-asif
+
+---
+
+## ⚡ Currently Focused On
+
+- AI-powered product development
+- Scalable web applications
+- System design & architecture
+- Shipping real-world products fast
