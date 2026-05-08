@@ -55,6 +55,56 @@ I focus on the final 20% that makes products actually launch-ready.
 
 ---
 
+## 🚀 Key Projects
+
+### 🔹 EazyBook — Multi-Tenant Appointment Booking SaaS
+
+A production-grade booking and business management platform built for service businesses and workshops.
+
+#### Key Features
+- Multi-tenant SaaS architecture with isolated tenant databases using Stancl Tenancy
+- Advanced booking system with branch support, staff scheduling, and public booking pages
+- Integrated POS, Norwegian-compliant invoicing, and subscription billing via Nexi
+- SMS/email reminder system with Sveve integration and customer portal
+- Role-based permissions, bilingual support (English/Norwegian), and GDPR-friendly architecture
+
+#### Stack
+React • Node.js • Express • MongoDB • Tailwind CSS • Nexi • Sveve
+
+---
+
+### 🔹 Noregna Invoice — Norwegian Invoicing Platform
+
+A financial and invoicing platform tailored for Norwegian businesses and compliance requirements.
+
+#### Key Features
+- Automated EHF 3.0 invoicing and Norwegian VAT (MVA) compliance
+- Triple-entry ledger system with automated journal entries
+- Recurring billing engine with real-time payment tracking
+- Multi-currency support with NOK-focused reporting
+- Financial dashboards, audit-ready exports, and customizable invoice templates
+
+#### Stack
+React • Node.js • Express • SQL • Financial Reporting Systems
+
+---
+
+### 🔹 Material Estimation SaaS
+
+A construction-focused SaaS platform for estimating materials, costs, and project requirements.
+
+#### Key Features
+- Secure JWT authentication with per-user project isolation
+- Hierarchical project system: Projects → Floors → Rooms → Walls
+- Geometry-based material estimation and cost calculation engine
+- PDF report generation, estimate revisions, and reusable templates
+- Modern React frontend with analytics dashboard and project explorer
+
+#### Stack
+React • Vite • Tailwind CSS • Node.js • Express • MongoDB • TanStack Query
+
+---
+
 ## 🌐 Portfolio
 
 👉 abdulwahabasif.com
