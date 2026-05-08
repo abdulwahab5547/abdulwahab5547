@@ -61,6 +61,7 @@ I focus on the final 20% that makes products actually launch-ready.
 
 <img width="1437" height="746" alt="Screenshot 2026-05-08 at 11 23 07 AM" src="https://github.com/user-attachments/assets/002adce8-e46a-4ec0-8b7c-3204019bc270" />
 
+
 A production-grade booking and business management platform built for service businesses and workshops.
 
 #### Key Features
@@ -79,6 +80,7 @@ React • Node.js • Express • MongoDB • Tailwind CSS • Nexi • Sveve
 
 <img width="1440" height="750" alt="Screenshot 2026-05-02 at 9 56 53 AM" src="https://github.com/user-attachments/assets/575bb401-ddb5-450d-a1a8-14f17cc95160" />
 
+
 A financial and invoicing platform tailored for Norwegian businesses and compliance requirements.
 
 #### Key Features
@@ -96,6 +98,7 @@ React • Node.js • Express • SQL • Financial Reporting Systems
 ### 🔹 Material Estimation SaaS
 
 <img width="1437" height="681" alt="Screenshot 2026-05-08 at 11 24 58 AM" src="https://github.com/user-attachments/assets/0cbe4bbd-9a23-4183-8960-aea9e0db28bf" />
+
 
 A construction-focused SaaS platform for estimating materials, costs, and project requirements.
 
