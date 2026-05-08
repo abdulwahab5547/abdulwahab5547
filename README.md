@@ -20,6 +20,12 @@ I focus on the final 20% that makes products actually launch-ready.
 
 ---
 
+## 📊 GitHub Stats
+
+![Abdul Wahab's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulwahab5547&show_icons=true)
+
+---
+
 ## 🛠 Tech Stack
 
 ### Frontend
