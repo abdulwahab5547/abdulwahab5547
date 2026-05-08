@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/abdul-wahab-asif">
+  <a href="https://www.linkedin.com/in/aw-asif">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
