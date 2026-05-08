@@ -115,6 +115,10 @@ A construction-focused SaaS platform for estimating materials, costs, and projec
 #### Stack
 React • Vite • Tailwind CSS • Node.js • Express • MongoDB • TanStack Query
 
+#### 🔗 Links
+- Frontend Repo: https://github.com/abdulwahab5547/material-estimation-frontend
+- Backend Repo: https://github.com/abdulwahab5547/material-estimation-backend
+
 ---
 
 ## 🌐 Portfolio
