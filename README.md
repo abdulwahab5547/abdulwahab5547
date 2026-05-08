@@ -2,23 +2,9 @@
 
 ## AI Product Engineer | Full-Stack Developer
 
-<div id="badges" align="center">
-  <a href="https://abdulwahabasif.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio Badge"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/aw-asif">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-
-  <a href="mailto:abdulwahab5547@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-</div>
-
 I turn AI-built apps into production-ready products.
 
-Most AI-generated apps look complete but fail under real-world usage — messy architecture, unreliable backend logic, scalability issues, and poor maintainability.
+Most AI-generated apps look complete but fail under real-world usage - messy architecture, unreliable backend logic, scalability issues, and poor maintainability.
 
 I focus on the final 20% that makes products actually launch-ready.
 
@@ -71,7 +57,7 @@ I focus on the final 20% that makes products actually launch-ready.
 
 ## 🌐 Portfolio
 
-👉 abdulwahabasif.com
+👉 www.abdulwahabasif.com
 
 ## 📫 Contact
 
