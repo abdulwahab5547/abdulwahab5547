@@ -57,7 +57,7 @@ I focus on the final 20% that makes products actually launch-ready.
 
 ## 🌐 Portfolio
 
-👉 www.abdulwahabasif.com
+👉 abdulwahabasif.com
 
 ## 📫 Contact
 
